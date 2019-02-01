@@ -1,0 +1,2 @@
+﻿Test file replace aaa by bbb.
+Test file replace aaa by bbb.
